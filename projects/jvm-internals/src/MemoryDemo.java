@@ -3,3 +3,4 @@ public class MemoryDemo {
         System.out.println("JVM memory demo");
     }
 }
+// minor improvement 1
