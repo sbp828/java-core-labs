@@ -10,3 +10,4 @@ public class StreamExample {
                .forEach(System.out::println);
     }
 }
+// minor improvement 2
