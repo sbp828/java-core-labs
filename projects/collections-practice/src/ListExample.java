@@ -10,3 +10,4 @@ public class ListExample {
         names.forEach(System.out::println);
     }
 }
+// minor improvement 3
