@@ -8,3 +8,4 @@ public class ThreadExample extends Thread {
         new ThreadExample().start();
     }
 }
+// minor improvement 14
