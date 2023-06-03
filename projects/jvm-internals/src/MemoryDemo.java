@@ -8,3 +8,4 @@ public class MemoryDemo {
 // minor improvement 7
 // minor improvement 12
 // minor improvement 13
+// minor improvement 19
