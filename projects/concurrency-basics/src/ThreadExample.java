@@ -15,3 +15,4 @@ public class ThreadExample extends Thread {
 // minor improvement 25
 // minor improvement 26
 // minor improvement 39
+// minor improvement 40
