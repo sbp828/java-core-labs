@@ -26,3 +26,4 @@ public class StreamExample {
 // minor improvement 84
 // minor improvement 86
 // minor improvement 93
+// minor improvement 94
